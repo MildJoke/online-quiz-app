@@ -131,35 +131,6 @@ online-quiz-app/
 | Anime | 7 | Medium | Available |
 | Anime Advanced | 7 | Hard | Perfect score on Anime Quiz |
 
-## 🎯 Future Enhancements
-
-- [ ] **Timer System** - Add time limits for questions
-- [ ] **Score Leaderboard** - Track high scores
-- [ ] **More Quiz Categories** - Expand topic variety
-- [ ] **Question Randomization** - Shuffle questions and options
-- [ ] **Difficulty Levels** - Multiple difficulty tiers
-- [ ] **User Accounts** - Save progress across sessions
-- [ ] **Social Sharing** - Share results on social media
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Quiz questions compiled from various sources
-- Design inspiration from modern quiz applications
-- React community for excellent documentation
-
-## 📧 Contact
 
 **MildJoke** - [GitHub Profile](https://github.com/MildJoke)
 
