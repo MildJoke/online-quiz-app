@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "correctAnswer": "Gryffindor"
+  },
+  {
+    "id": 2,
+    "correctAnswer": "Harry Potter"
+  },
+  {
+    "id": 3,
+    "correctAnswer": "Platform 9 3/4"
+  },
+  {
+    "id": 4,
+    "correctAnswer": "Severus Snape"
+  },
+  {
+    "id": 5,
+    "correctAnswer": "Hare"
+  },
+  {
+    "id": 6,
+    "correctAnswer": "Expelliarmus"
+  },
+  {
+    "id": 7,
+    "correctAnswer": "Sirius Black"
+  }
+]

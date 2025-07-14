@@ -1,0 +1,265 @@
+.review-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.review-loading {
+  text-align: center;
+  color: white;
+  padding: 40px;
+}
+
+.review-header {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 15px;
+  padding: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.review-header h2 {
+  color: #333;
+  margin: 0 0 10px 0;
+  font-size: 2em;
+}
+
+.review-header p {
+  color: #666;
+  margin: 0 0 20px 0;
+  font-size: 1.1em;
+}
+
+.review-summary {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.answered-count {
+  background: #4CAF50;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-weight: 500;
+}
+
+.warning {
+  background: #FF9800;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-weight: 500;
+}
+
+.review-questions {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  margin-bottom: 30px;
+}
+
+.review-question {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 15px;
+  padding: 25px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.question-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.question-number {
+  background: #667eea;
+  color: white;
+  padding: 5px 12px;
+  border-radius: 15px;
+  font-weight: 500;
+  font-size: 0.9em;
+}
+
+.answer-status {
+  padding: 5px 12px;
+  border-radius: 15px;
+  font-weight: 500;
+  font-size: 0.9em;
+}
+
+.answer-status.answered {
+  background: #4CAF50;
+  color: white;
+}
+
+.answer-status.unanswered {
+  background: #f44336;
+  color: white;
+}
+
+.question-text {
+  color: #333;
+  margin: 0 0 20px 0;
+  font-size: 1.2em;
+  line-height: 1.5;
+}
+
+.options-review {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.option-review {
+  display: flex;
+  align-items: center;
+  padding: 12px 15px;
+  background: #f5f5f5;
+  border-radius: 8px;
+  border: 2px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.option-review.selected {
+  background: rgba(102, 126, 234, 0.1);
+  border-color: #667eea;
+  transform: translateX(5px);
+}
+
+.option-letter {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 25px;
+  height: 25px;
+  background: #999;
+  color: white;
+  border-radius: 50%;
+  margin-right: 12px;
+  font-weight: bold;
+  font-size: 0.9em;
+  flex-shrink: 0;
+}
+
+.option-review.selected .option-letter {
+  background: #4CAF50;
+}
+
+.option-text {
+  flex: 1;
+  color: #333;
+}
+
+.selected-indicator {
+  color: #4CAF50;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.no-answer-message {
+  color: #999;
+  font-style: italic;
+  text-align: center;
+  padding: 10px;
+}
+
+.review-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.back-button {
+  padding: 12px 24px;
+  background: #6c757d;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1em;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.back-button:hover {
+  background: #5a6268;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.submit-section {
+  text-align: right;
+}
+
+.submit-warning {
+  color: #FF9800;
+  margin: 0 0 10px 0;
+  font-size: 0.9em;
+  max-width: 300px;
+}
+
+.submit-button {
+  padding: 15px 30px;
+  background: linear-gradient(135deg, #4CAF50 0%, #45a049 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.2em;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.submit-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(76, 175, 80, 0.4);
+}
+
+@media (max-width: 768px) {
+  .review-container {
+    padding: 10px;
+  }
+  
+  .review-header {
+    padding: 20px;
+  }
+  
+  .review-header h2 {
+    font-size: 1.6em;
+  }
+  
+  .review-summary {
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .review-question {
+    padding: 20px;
+  }
+  
+  .question-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  
+  .review-actions {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+  }
+  
+  .submit-section {
+    text-align: center;
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "question": "What house at Hogwarts does Harry belong to?",
+    "options": ["Gryffindor", "Hufflepuff", "Ravenclaw", "Slytherin"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 2,
+    "question": "Who is known as the Boy Who Lived?",
+    "options": ["Neville Longbottom", "Draco Malfoy", "Harry Potter", "Ron Weasley"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 3,
+    "question": "What platform at King’s Cross Station does the Hogwarts Express leave from?",
+    "options": ["Platform 9", "Platform 10", "Platform 9 3/4", "Platform 8"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 4,
+    "question": "Who teaches Potions in the first five Harry Potter books?",
+    "options": ["Severus Snape", "Minerva McGonagall", "Sirius Black", "Remus Lupin"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 5,
+    "question": "What Patronus does Luna Lovegood have?",
+    "options": ["Fox", "Otter", "Hare", "Doe"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 6,
+    "question": "What spell is used to disarm an opponent?",
+    "options": ["Expelliarmus", "Lumos", "Alohomora", "Expecto Patronum"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 7,
+    "question": "Who is Harry's godfather?",
+    "options": ["Sirius Black", "Albus Dumbledore", "Rubeus Hagrid", "Severus Snape"],
+    "type": "multiple-choice"
+  }
+]

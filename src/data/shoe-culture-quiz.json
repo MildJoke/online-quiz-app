@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "question": "What is the most popular sneaker brand in the world?",
+    "options": ["Nike", "Adidas", "Puma", "Reebok"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 2,
+    "question": "Who is known for the design of Air Jordan sneakers?",
+    "options": ["Tinker Hatfield", "Virgil Abloh", "Kanye West", "Peter Moore"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 3,
+    "question": "Which sneaker brand is associated with the Yeezy line?",
+    "options": ["Adidas", "Nike", "New Balance", "Converse"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 4,
+    "question": "What year was the first Air Jordan released?",
+    "options": ["1985", "1990", "1995", "2000"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 5,
+    "question": "Which of these is not a type of sneaker?",
+    "options": ["Slip-on", "High-top", "Low-top", "Tie-dye"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 6,
+    "question": "Which brand created the 'Chuck Taylor All-Stars'?",
+    "options": ["Converse", "Vans", "Nike", "Adidas"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 7,
+    "question": "Which brand has the 'Three Stripes' as its logo?",
+    "options": ["Adidas", "Nike", "Puma", "Reebok"],
+    "type": "multiple-choice"
+  }
+]

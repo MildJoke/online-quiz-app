@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "question": "Which anime features a hero with a straw hat?",
+    "options": ["One Piece", "Naruto", "Bleach", "Attack on Titan"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 2,
+    "question": "What is the Titan Shifters' power source?",
+    "options": ["Gas", "Electricity", "Steam", "Ice"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 3,
+    "question": "In Dragon Ball Z, what is Goku's full Saiyan name?",
+    "options": ["Kakarot", "Raditz", "Bardock", "Vegeta"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 4,
+    "question": "Which anime features hunting of devils by exorcists?",
+    "options": ["Blue Exorcist", "Demon Slayer", "Tokyo Ghoul", "Spirited Away"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 5,
+    "question": "In Naruto, what is the name of Kakashi's famous technique?",
+    "options": ["Chidori", "Rasengan", "Amaterasu", "Susanoo"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 6,
+    "question": "Which anime series is also known as 'Attack on Titan'?",
+    "options": ["Boku no Hero Academia", "Shingeki no Kyojin", "Ao no Exorcist", "Kill la Kill"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 7,
+    "question": "In Fullmetal Alchemist, what must be exchanged to bring someone back to life?",
+    "options": ["Equivalent Exchange", "Nothing", "Life Stone", "Magic"],
+    "type": "multiple-choice"
+  }
+]

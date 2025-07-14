@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "question": "In Death Note, what is the name of the shinigami who originally owned the Death Note that Light finds?",
+    "options": ["Ryuk", "Rem", "Sidoh", "Gelus"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 2,
+    "question": "What is the name of the technique used by Tanjiro in Demon Slayer that mimics the movement of water?",
+    "options": ["Water Breathing: First Form", "Total Concentration Breathing", "Hinokami Kagura", "Beast Breathing"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 3,
+    "question": "In Jujutsu Kaisen, what is Gojo Satoru's Domain Expansion called?",
+    "options": ["Unlimited Void", "Infinite Space", "Limitless Domain", "Six Eyes Territory"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 4,
+    "question": "What is the real name of the protagonist in Code Geass?",
+    "options": ["Lelouch vi Britannia", "Lelouch Lamperouge", "Zero", "Suzaku Kururugi"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 5,
+    "question": "In Attack on Titan, what is the name of the serum that transforms humans into titans?",
+    "options": ["Titan Serum", "Spinal Fluid", "Founding Titan Extract", "Coordinate Fluid"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 6,
+    "question": "In Hunter x Hunter, what is the name of Killua's family assassination technique?",
+    "options": ["Godspeed", "Rhythm Echo", "Whirlwind", "Lightning Palm"],
+    "type": "multiple-choice"
+  },
+  {
+    "id": 7,
+    "question": "What is the name of the currency used in the world of Overlord?",
+    "options": ["YGGDRASIL Gold", "Gold Coins", "Data Crystals", "Exchange Points"],
+    "type": "multiple-choice"
+  }
+]
