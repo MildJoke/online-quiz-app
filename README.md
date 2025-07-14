@@ -136,6 +136,4 @@ online-quiz-app/
 
 Project Link: [https://github.com/MildJoke/online-quiz-app](https://github.com/MildJoke/online-quiz-app)
 
----
 
-⭐ **Star this repository if you found it helpful!** ⭐
